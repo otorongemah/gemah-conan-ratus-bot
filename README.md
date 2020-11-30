@@ -1,2 +1,2 @@
 # gemah-conan-ratus-bot
-A simple discord bot.
+A simple multiplatform bot for Discord and Telegram.
